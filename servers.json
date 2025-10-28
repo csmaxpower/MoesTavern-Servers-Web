@@ -6,7 +6,7 @@
     "city": "Atlanta",
     "region": "GA",
     "country": "United States",
-    "flag": "🇺🇸"
+    "flag": "us"
   },
   "Moe's Tavern - NA NY": {
     "hostname": "ny.moestavern.pub",
@@ -15,7 +15,7 @@
     "city": "New York",
     "region": "NY",
     "country": "United States",
-    "flag": "🇺🇸"
+    "flag": "us"
   },
   "Moe's Tavern - NA DC": {
     "hostname": "dc.moestavern.pub",
@@ -24,7 +24,7 @@
     "city": "Washington",
     "region": "D.C.",
     "country": "United States",
-    "flag": "🇺🇸"
+    "flag": "us"
   },
   "Moe's Tavern - NA LA": {
     "hostname": "la.moestavern.pub",
@@ -33,7 +33,7 @@
     "city": "Los Angeles",
     "region": "CA",
     "country": "United States",
-    "flag": "🇺🇸"
+    "flag": "us"
   },
   "Moe's Tavern - SA BR": {
     "hostname": "br.moestavern.pub",
@@ -42,7 +42,7 @@
     "city": "São Paulo",
     "region": "SP",
     "country": "Brazil",
-    "flag": "🇧🇷"
+    "flag": "br"
   },
   "Moe's Tavern - SA COL": {
     "hostname": "col.moestavern.pub",
@@ -51,7 +51,7 @@
     "city": "Bogotá",
     "region": "D.C.",
     "country": "Colombia",
-    "flag": "🇨🇴"
+    "flag": "co"
   },
   "Moe's Tavern - EU UK": {
     "hostname": "uk.moestavern.pub",
@@ -60,7 +60,7 @@
     "city": "London",
     "region": "England",
     "country": "United Kingdom",
-    "flag": "🇬🇧"
+    "flag": "gb"
   },
   "Moe's Tavern - EU NL": {
     "hostname": "nl.moestavern.pub",
@@ -69,7 +69,7 @@
     "city": "Amsterdam",
     "region": "North Holland",
     "country": "Netherlands",
-    "flag": "🇳🇱"
+    "flag": "nl"
   },
   "Moe's Tavern - EU DE": {
     "hostname": "de.moestavern.pub",
@@ -78,7 +78,7 @@
     "city": "Frankfurt",
     "region": "Hesse",
     "country": "Germany",
-    "flag": "🇩🇪"
+    "flag": "de"
   },
   "Moe's Tavern - OCE SYD": {
     "hostname": "oce.moestavern.pub",
@@ -87,6 +87,6 @@
     "city": "Sydney",
     "region": "NSW",
     "country": "Australia",
-    "flag": "🇦🇺"
+    "flag": "au"
   }
 }
