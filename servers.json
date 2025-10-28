@@ -1,0 +1,92 @@
+{
+  "Moe's Tavern - ATL": {
+    "hostname": "atl.moestavern.pub",
+    "ip": "192.168.1.100",
+    "port": 27960,
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "United States",
+    "flag": "🇺🇸"
+  },
+  "Moe's Tavern - NY": {
+    "hostname": "ny.moestavern.pub",
+    "ip": "192.168.1.101",
+    "port": 27960,
+    "city": "New York",
+    "region": "NY",
+    "country": "United States",
+    "flag": "🇺🇸"
+  },
+  "Moe's Tavern - DC": {
+    "hostname": "dc.moestavern.pub",
+    "ip": "192.168.1.102",
+    "port": 27961,
+    "city": "Washington",
+    "region": "D.C.",
+    "country": "United States",
+    "flag": "🇺🇸"
+  },
+  "Moe's Tavern - LA": {
+    "hostname": "la.moestavern.pub",
+    "ip": "192.168.1.103",
+    "port": 27960,
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "United States",
+    "flag": "🇺🇸"
+  },
+  "Moe's Tavern - BR": {
+    "hostname": "br.moestavern.pub",
+    "ip": "10.0.0.50",
+    "port": 27960,
+    "city": "Sao Paulo",
+    "region": "SP",
+    "country": "Brazil",
+    "flag": "🇧🇷"
+  },
+  "Moe's Tavern - COL": {
+    "hostname": "col.moestavern.pub",
+    "ip": "10.0.0.51",
+    "port": 27960,
+    "city": "Bogota",
+    "region": "D.C.",
+    "country": "Colombia",
+    "flag": "🇨🇴"
+  },
+  "Moe's Tavern - UK": {
+    "hostname": "uk.moestavern.pub",
+    "ip": "10.0.0.100",
+    "port": 27960,
+    "city": "London",
+    "region": "England",
+    "country": "United Kingdom",
+    "flag": "🇬🇧"
+  },
+  "Moe's Tavern - NL": {
+    "hostname": "nl.moestavern.pub",
+    "ip": "192.168.1.101",
+    "port": 27960,
+    "city": "Amsterdam",
+    "region": "North Holland",
+    "country": "Netherlands",
+    "flag": "🇳🇱"
+  },
+  "Moe's Tavern - DE": {
+    "hostname": "de.moestavern.pub",
+    "ip": "192.168.1.102",
+    "port": 27961,
+    "city": "Frankfurt",
+    "region": "Hesse",
+    "country": "Germany",
+    "flag": "🇩🇪"
+  },
+  "Moe's Tavern - OCE": {
+    "hostname": "oce.moestavern.pub",
+    "ip": "192.168.1.103",
+    "port": 27960,
+    "city": "Sydney",
+    "region": "NSW",
+    "country": "Australia",
+    "flag": "🇦🇺"
+  }
+}
