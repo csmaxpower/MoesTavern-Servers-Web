@@ -1,5 +1,5 @@
 {
-  "Moe's Tavern - ATL": {
+  "Moe's Tavern - NA ATL": {
     "hostname": "atl.moestavern.pub",
     "ip": "74.91.121.215",
     "port": 27960,
@@ -8,7 +8,7 @@
     "country": "United States",
     "flag": "🇺🇸"
   },
-  "Moe's Tavern - NY": {
+  "Moe's Tavern - NA NY": {
     "hostname": "ny.moestavern.pub",
     "ip": "172.104.9.202",
     "port": 27960,
@@ -17,7 +17,7 @@
     "country": "United States",
     "flag": "🇺🇸"
   },
-  "Moe's Tavern - DC": {
+  "Moe's Tavern - NA DC": {
     "hostname": "dc.moestavern.pub",
     "ip": "172.233.233.84",
     "port": 27961,
@@ -26,7 +26,7 @@
     "country": "United States",
     "flag": "🇺🇸"
   },
-  "Moe's Tavern - LA": {
+  "Moe's Tavern - NA LA": {
     "hostname": "la.moestavern.pub",
     "ip": "162.248.93.125",
     "port": 27960,
@@ -35,7 +35,7 @@
     "country": "United States",
     "flag": "🇺🇸"
   },
-  "Moe's Tavern - BR": {
+  "Moe's Tavern - SA BR": {
     "hostname": "br.moestavern.pub",
     "ip": "172.233.13.209",
     "port": 27960,
@@ -44,7 +44,7 @@
     "country": "Brazil",
     "flag": "🇧🇷"
   },
-  "Moe's Tavern - COL": {
+  "Moe's Tavern - SA COL": {
     "hostname": "col.moestavern.pub",
     "ip": "149.130.187.75",
     "port": 27960,
@@ -53,7 +53,7 @@
     "country": "Colombia",
     "flag": "🇨🇴"
   },
-  "Moe's Tavern - UK": {
+  "Moe's Tavern - EU UK": {
     "hostname": "uk.moestavern.pub",
     "ip": "20.0.96.231",
     "port": 27960,
@@ -62,7 +62,7 @@
     "country": "United Kingdom",
     "flag": "🇬🇧"
   },
-  "Moe's Tavern - NL": {
+  "Moe's Tavern - EU NL": {
     "hostname": "nl.moestavern.pub",
     "ip": "20.157.123.25",
     "port": 27960,
@@ -71,7 +71,7 @@
     "country": "Netherlands",
     "flag": "🇳🇱"
   },
-  "Moe's Tavern - DE": {
+  "Moe's Tavern - EU DE": {
     "hostname": "de.moestavern.pub",
     "ip": "185.107.96.218",
     "port": 27961,
@@ -80,7 +80,7 @@
     "country": "Germany",
     "flag": "🇩🇪"
   },
-  "Moe's Tavern - OCE": {
+  "Moe's Tavern - OCE SYD": {
     "hostname": "oce.moestavern.pub",
     "ip": "20.213.154.71",
     "port": 27960,
